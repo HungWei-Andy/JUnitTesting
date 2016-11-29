@@ -7,7 +7,7 @@ Enviroments:
   Memory 3.8 GB
   Intel i5-3210M CPU (2.5GHz x 4)
   
-Exection Method:
+Execution Method:
   Command Line complilation (javac, java)
 
 Coverage Analysis:
